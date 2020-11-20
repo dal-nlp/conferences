@@ -4,6 +4,7 @@
 # Maintained by Vlado Keselj, 2004-20
 #Name:Full-name:Start-date:End-date:Location:URL:Due:Comment:
 
+
 Name: DECOR@ICDE2021
 Full-name: DECOR@ICDE2021: Data Engineering meets Intelligent Food and
            COoking Recipes 2021
@@ -12,6 +13,7 @@ Location: Chania-Crete, Greece
 Due: 14-Dec-2020
 URL: http://research.nii.ac.jp/decor/decor2021.html
 Submission URL: https://easychair.org/cfp/DECOR_ICDE2021
+
 
 Name: AAAI-KDF2021
 Full-name: The AAAI-21 Workshop on Knowledge Discovery from
@@ -86,7 +88,7 @@ Full-name: The 1st Joint Workshop on Financial Narrative Processing
 Start-date: 13-Sep-2020
 Location: Barcelona, Spain
 Due: 1-May-2020
-URL: http://wp.lancs.ac.uk/cfie/fnp2020/
+URL:        http://wp.lancs.ac.uk/cfie/fnp2020/
 
 Name:       COLING 2020
 Full-name:  28th International Conference on Computational Linguistics
@@ -378,6 +380,7 @@ End-date:   12-Aug-2016
 Location:   Berlin, Germany
 URL:        http://acl2016.org/
 Due:        29-Feb-2016 (short papers), 18-Mar-2016 (long papers)
+
 
 Name:       NAACL HLT 2016
 Full-name:  Human Language Technology Conference/North American
