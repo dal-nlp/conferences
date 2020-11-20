@@ -1,0 +1,390 @@
+#-*-mode: Text; compile-command: "make -C ~ web"; -*-
+# Meta-list: http://web.cs.dal.ca/~vlado/conferences.txt
+# HTML:      http://web.cs.dal.ca/~vlado/nlp/conferences.html
+# Maintained by Vlado Keselj, 2004-20
+#Name:Full-name:Start-date:End-date:Location:URL:Due:Comment:
+
+Name: DECOR@ICDE2021
+Full-name: DECOR@ICDE2021: Data Engineering meets Intelligent Food and
+           COoking Recipes 2021
+Start-date: 19-Apr-2021
+Location: Chania-Crete, Greece
+Due: 14-Dec-2020
+URL: http://research.nii.ac.jp/decor/decor2021.html
+Submission URL: https://easychair.org/cfp/DECOR_ICDE2021
+
+Name: AAAI-KDF2021
+Full-name: The AAAI-21 Workshop on Knowledge Discovery from
+           Unstructured Data in Financial Services
+Start-date: 8-Feb-2021
+End-date:   9-Feb-2021
+Location:   Virtual Workshop
+URL: https://aaai-kdf.github.io/kdf2021/
+Due:        13-Nov-2020
+
+Name:           NAACL-HTL 2021
+Full-name:      2021 Annual Conference of the North American Chapter
+                of the Association for Computational Linguistics
+Start-date:     6-Jun-2021
+End-date:       11-Jun-2021
+Location:       Mexico City, Mexico
+Due:            23-Nov-2020
+URL:            https://2021.naacl.org/
+
+Name:		CNSM 2020
+Full-name:	16th International Conference on Network and Service
+		Management
+Start-date:	2-Nov-2020
+End-date:	6-Nov-2020
+URL:		http://www.cnsm-conf.org/2020/
+
+Name:	    	DHA 2020
+Full-name:  	1st IEEE ICDM Workshop on Data Mining for Healthy
+                Aging
+Location:   	Sorrento, Italy (or Virtual Conference)
+Due:	    	24-Aug-2020
+Start-date:	17-Nov-2020
+End-date:	17-Nov-2020
+URL:		https://www.dha20.cs.hku.hk/
+
+Name:	    	ICDM 2020
+Full-name:  	The 20th IEEE International Conference on Data Mining
+Location:   	Sorrento, Italy (or Virtual Conference)
+Due:	    	11-Jun-2020
+Start-date:	17-Nov-2020
+End-date:	20-Nov-2020
+URL:		http://icdm2020.bigke.org
+
+Name:		IEEE Big Data 2020
+Full-name:  	2020 IEEE International Conference on Big Data
+Start-date: 	10-Dec-2020
+End-date:	13-Dec-2020
+Location:	Virtual Conference (planned for Atlanta, GA, USA)
+URL:	    	http://bigdataieee.org/BigData2020/
+Due:		19-Aug-2020
+
+Name: FinNLP-2020
+Full-name: The 2nd Workshop on Financial Technology and Natural
+  Language Processing (FinNLP), IJCAI-PRICAI 2020 Workshop
+Due: 15-May-2020
+Start-date: 5-Jan-2021
+End-date: 10-Jan-2021
+Location:Kyoto, Japan (or virtual event)
+URL:https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp2020
+
+Name: ECNLP-3
+Full-name: The Third Workshop on e-Commerce and NLP (ACL 2020 Workshop)
+Due: 6-Apr-2020
+Start-date: 10-Jul-2020
+End-date: 10-Jul-2020
+Location: Virtual Conference (due to COVID-19)
+URL: https://sites.google.com/view/ecnlp/acl-2020
+
+Name: FNP-FNS 2020
+Full-name: The 1st Joint Workshop on Financial Narrative Processing
+           and MultiLing Financial Summarisation (COLING 2020 Workshop)
+Start-date: 13-Sep-2020
+Location: Barcelona, Spain
+Due: 1-May-2020
+URL: http://wp.lancs.ac.uk/cfie/fnp2020/
+
+Name:       COLING 2020
+Full-name:  28th International Conference on Computational Linguistics
+Start-date: 15-Sep-2020
+End-date:   18-Sep-2020
+Location:   Barcelona, Spain
+URL:        http://coling2020.org
+Due:        8-Apr-2020
+
+Due:        2-Dec-2019
+Name:       LREC 2020
+Location:   Marseille, France
+Start-date: 11-May-2020
+End-date:   16-May-2020
+URL:        https://lrec2020.lrec-conf.org/en/
+
+Due:	    17-Jan-2020
+Name:       CanAI2020
+Full-name:  The 33th Canadian Conference on Artificial Intelligence
+Location:   Ottawa, Ontario, Canada
+Start-date: 13-May-2020
+End-date:   15-May-2020
+URL:        https://www.caiac.ca/en/conferences/canadianai-2020
+
+Name:       ACL 2020
+Full-name:  The 58th Annual Meeting of the Association for
+            Computational Linguistics (ACL)
+Start-date: 10-Jul-2020
+End-date:   20-Jul-2020
+Location:   Seattle, Washington, USA
+URL:        http://acl2020.org/
+Due:        9-Dec-2019 (short and long papers)
+
+Name:           AAAI-20
+Full-name:      Thirty-Fourth AAAI Conference on Artificial
+                Intelligence
+Start-date:     7-Feb-2020
+End-date:       12-Feb-2020
+Location:       New York, NY, USA
+URL:            https://aaai.org/Conferences/AAAI-20/
+Due:            30-Aug-2019 abstract (Sep 7 paper)
+
+Name:           ACM SAC2020
+Full-name:      The 35th ACM/SIGAPP Symposium on Applied Computing
+Start-date:     30-Mar-2020
+End-date:       3-Apr-2020
+Location:       Brno, Czech Republic
+URL:            http://www.sigapp.org/sac/sac2020/index.html
+Due:            15-Sep-2019
+
+Name:		IEEE CIC 2019
+Full-name:	The 5th IEEE International Conference on Collaboration
+		and Internet Computing (IEEE CIC 2019)
+Start-date:	12-Dec-2019
+End-date:	14-Dec-2019
+Location:	Los Angelos, CA; USA; N. America
+URL:		http://www.sis.pitt.edu/lersais/cic/2019/index.html
+Due:		23-Aug-2019
+
+Name:		WWW 2020
+Full-name:	International World Wide Web Conference
+Start-date:	20-Apr-2020
+End-date:	25-Apr-2020
+Location:	Taipei, Taiwan
+URL:		https://www2020.thewebconf.org/
+Due:		7-Oct-2019
+
+Name:           IEEE ICDE 2020
+Full-name:      IEEE ICDE International Conference on Data Engineering (ICDE)
+Start-date:     20-Apr-2020
+End-date:       24-Apr-2020
+URL:            https://www.utdallas.edu/icde
+Due:            8-Jun-2019
+
+Name:		IEEE Big Data 2019
+Full-name:  	2019 IEEE International Conference on Big Data
+Start-date: 	10-Dec-2019
+End-date:	13-Dec-2019
+Location:	Los Angeles, CA, USA
+URL:	    	http://cci.drexel.edu/bigdata/bigdata2019/
+Due:		19-Aug-2019 (10pps)
+
+Name:	    	ICDM 2019
+Full-name:  	The 19th IEEE International Conference on Data Mining
+Location:   	Beijing, China
+Due:	    	5-Jun-2019
+Start-date:	8-Nov-2019
+End-date:	11-Nov-2019
+URL:		http://icdm2019.bigke.org
+
+Name:		WI'19
+Full-name:	IEEE/WIC/ACM International Conference on Web Intelligence (WI'19)
+Location:	Thessaloniki, Greece
+Start-date:	14-Oct-2019
+End-date:	17-Oct-2019
+URL:		https://webintelligence2019.com/
+Due:		26-May-2019
+
+Name:       ICNLSP 2019
+Full-name:  International Conference on Natural Language and Speech
+            Processing
+Start-date: 12-Sep-2019
+End-date:   13-Sep-2019
+Location:   Trento, Italy
+URL:        http://icnlsp.org/icnlsp2019/
+Due:        18-May-2019
+
+Name:	    EMNLP-IJCNLP 2019
+Full-name:  Conference on Empirical Methods in Natural Language
+            Processing and International Joint Conference on Natural
+	    Language Processing
+Start-date: 3-Nov-2019
+End-date:   7-Nov-2019
+Location:   Hong Kong
+URL:	    https://www.emnlp-ijcnlp2019.org/ 
+Due:	    15-May-2019
+
+Name:	    CoNLL 2019
+Full-name:  The SIGNLL Conference on Computational Natural Language Learning
+Location:   Hong Kong
+Start-date: 3-Nov-2019
+End-date:   4-Nov-2019
+Due:	    31-May-2019
+URL:	    http://www.conll.org/2019
+
+Name:	    CIKM 2019
+Full-name:  23rd ACM Conference on Information and Knowledge Management
+Start-date: 3-Nov-2019
+End-date:   7-Nov-2019
+Location:   Beijing, China
+URL:	    http://www.cikm2019.net/
+Due:	    15-May-2019
+
+Name:       IEEE/ACM ASONAM 2019
+Full-name:  The 2019 IEEE/ACM International Conference on Advances in
+            Social Networks Analysis and Mining (ASONAM 2019)
+Start-date: 27-Aug-2019
+End-date:   30-Aug-2019
+URL:        http://asonam.cpsc.ucalgary.ca/2019/
+Due:        28-Apr-2019
+
+Name:       Infoteh 2019
+Full-name:  2019 18th International Symposium INFOTEH-JAHORINA
+Start-date: 20-Mar-2019
+End-date:   22-Mar-2019
+URL:        http://www.infoteh.rs.ba/indexe.php
+Due:        28-Jan-2019
+
+Name:       IEEE Big Data 2018
+Full-name:  2018 IEEE International Conference on Big Data
+Start-date: 10-Dec-2018
+End-date:   13-Dec-2018
+Location:   Seattle, WA, USA
+URL:        http://cci.drexel.edu/bigdata/bigdata2018/
+Due:        19-Aug-2018 (10pps)
+
+Name:       CBI 2018
+Full-name:  20th IEEE Conference on Business Informatics
+Start-date: 11-Jul-2018
+End-date:   14-Jul-2018
+Location:   Vienna, Austria
+URL:        https://cbi2018.big.tuwien.ac.at/
+Due:        9-Apr-2018 abstract (Apr 15 paper)
+
+Name:        DocEng 2018
+Full-name:   The 18th Symposium on Document Engineering (DocEng 2018),
+             Short Papers
+Start-date:  28-Aug-2018
+End-date:    31-Aug-2018
+Location:    Halifax, Nova Scotia, Canada
+URL:         https://doceng.org/doceng2018
+Due:         8-Feb-2018 (abs), 15-Feb-2018 papers
+Comment:     Short papers due 29-Mar-2018
+
+Name:        DocEng 2018
+Full-name:   The 18th Symposium on Document Engineering (DocEng 2018)
+Start-date:  28-Aug-2018
+End-date:    31-Aug-2018
+Location:    Halifax, Nova Scotia, Canada
+URL:         https://doceng.org/doceng2018
+Due:         29-Mar-2018 Short papers due
+
+#Name:       DCSI 2018
+#Full-name:  The ?th Dalhousie Computer Science In-House Conference
+#Due:        13-Dec-2017
+#Start-date: 24-Jan-2018
+#End-date:   26-Jan-2018
+#URL:        http://dcsi.cs.dal.ca/
+#Location:   Halifax
+
+Name:       ACL 2018
+Full-name:  The 56th Annual Meeting of the Association for
+            Computational Linguistics (ACL)
+Start-date: 15-Jul-2018
+End-date:   20-Jul-2018
+Location:   Melbourne, Australia
+URL:        http://acl2018.org/
+Due:        22-Feb-2018 (short and long papers)
+
+Name:       ICWSM 2018
+Full-name:  12th International AAAI Conference on Web and Social Media
+Start-date: 25-Jun-2018
+End-date:   28-Jun-2018
+Location:   Stanford, California, USA
+URL:        http://www.icwsm.org/2018
+#Due:??
+
+Name:	    ICDE 2018
+Full-name:  34th IEEE International Conference on Data Engineering (ICDE)
+Start-date: 16-Apr-2018
+End-date:   20-Apr-2018
+Location:   Paris, France
+URL:	    http://icde2018.org
+Abstract-due: 22-Sep-2017
+Due:	    29-Sep-2017
+
+Name:       IEEE Big Data 2017
+Full-name:  2017 IEEE International Conference on Big Data
+Start-date: 11-Dec-2017
+End-date:   14-Dec-2017
+Location:   Boston, MA, USA
+URL:        http://cci.drexel.edu/bigdata/bigdata2017/
+Due:        20-Aug-2017 (10pps)
+
+Name:       ACL 2017
+Full-name:  The 55th Annual Meeting of the Association for
+            Computational Linguistics (ACL)
+Start-date: 30-Jul-2017
+End-date:   4-Aug-2017
+Location:   Vancouver, Canada
+URL:        http://acl2017.org/
+Due:        6-Feb-2017 (short and long papers)
+
+Name:       WWW 2017
+Full-name:  The 26th World Wide Web Conference
+Start-date: 3-Apr-2017
+End-date:   7-Apr-2017
+Location:   Perth, Australia
+URL:        http://www.www2017.com.au/
+Due:        19-Oct-2016
+
+Name:       SIGIR 2016
+Full-name:  39th Annual International ACM SIGIR Conference on Research
+            and Development in Information Retreval (SIGIR 2016)
+Start-date: 17-Jul-2016
+End-date:   21-Jul-2016
+Location:   Pisa, Italy
+URL:        http://sigir.org/sigir2016/
+Due:        14-Jan-2016 abstracts, 21-Jan-2016 papers
+
+Name:	    CLEF2016
+Full-name:  Conference and Labs of the Evaluation Forum (CLEF2016)
+Start-date: 5-Sep-2016
+End-date:   8-Sep-2016
+URL:	    http://clef2016.clef-initiative.eu/
+Location:   Evora, Portugal
+Due:	    24-Apr-2016 long papers (May 1 short)
+
+Name:       KDD2016
+Full-name:  22th ACM SIGKDD Conference on
+            Knowledge Discovery and Data Mining (KDD2016)
+Start-date: 13-Aug-2016
+End-date:   17-Aug-2016
+URL:	    http://www.kdd.org/kdd2016
+Location:   San Francisco, California
+Due:	    12-Feb-2016
+
+Name:       CBI 2016
+Full-name:  18th IEEE Conference on Business Informatics
+Start-date: 29-Aug-2016
+End-date:   1-Sep-2016
+Location:   Paris, France
+URL:        http://cbi2016.cnam.fr/
+Due:        12-Apr-2016 abstract (Apr 19 paper)
+
+Due:	    22-Jan-2016
+Name:       AI2016
+Full-name:  The 29th Canadian Conference on Artificial Intelligence
+Location:   Montreal, Quebec, Canada
+Start-date: 31-May-2016
+End-date:   3-Jun-2016
+URL:        http://aigicrv.org/aigicrv2016/cfp.html#cfpAI
+
+Name:       ACL 2016
+Full-name:  The 54th Annual Meeting of the Association for
+            Computational Linguistics (ACL)
+Start-date: 7-Aug-2016
+End-date:   12-Aug-2016
+Location:   Berlin, Germany
+URL:        http://acl2016.org/
+Due:        29-Feb-2016 (short papers), 18-Mar-2016 (long papers)
+
+Name:       NAACL HLT 2016
+Full-name:  Human Language Technology Conference/North American
+            chapter of the Association for Computational Linguistics
+	    annual meeting
+Start-date: 12-Jun-2016
+End-date:   17-Jun-2016
+Location:   San Diego, California, USA
+URL:        http://naacl.org/naacl-hlt-2016/
+Due:        6-Jan-2016
